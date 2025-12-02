@@ -10,8 +10,6 @@
 
 ## Die Enntwicklung der Intergrierten Schaltkreise
 
-## Die Mobilen Geräte
-
 ## Zusammenfassung
 
 ## Literatur
